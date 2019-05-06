@@ -4,7 +4,7 @@
 
 ## 管理者パスワード
 
-管理者パネルのパスワードを変更しては、パスワードが5文字以上でなければなりません。パスワードを変更するため、現在のパスワードを入力することが必要です。
+管理パネル及びLuCIを開くために必要なパスワードで、5文字以上のものを設定する必要があります。パスワードを変更する際は現在のパスワードの入力が必要です。
 
 ![admin password](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/admin_password.png)
 
@@ -62,7 +62,9 @@ DNSリークを防ぐ、またはそのほかの目的ために、ルーター�
 
 ## ボタン設定
 
-モードスイッチの機能を設定します。デフォルト機能がありません。 Wireguard / OpenVPNクライアントをオンまたはオフにするトグルとして設定できます。
+本体に備わっているトグルスイッチの機能を変更します。
+デフォルトで割り当てられている機能はありません。
+WireGuard/OpenVPNクライアント機能のオン・オフ切り替えに割り当てることができます。
 
 ![button settings](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/button_settings.png)
 
